@@ -1,7 +1,6 @@
 ---
-title: Callum Houghton CV
+title: Callum Houghton
 ---
-# Callum Houghton
 
 Web and Mobile Software Developer. Working mostly remote.
 
